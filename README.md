@@ -7,5 +7,7 @@ Este é o repositório da wiki do **Gamux**, a entidade estudantil de desenvolvi
 Acompanhe-nos em nossas redes sociais!
 
 * **Página de Facebook**: https://www.facebook.com/Gamux/
-* **Grupo de Whatsapp e lista de e-mail**: http://www.gamux.com.br/call-to-action/
+* **Grupo de Whatsapp**: https://Gamux-WhatsApp.herokuapp.com
 * **Website oficial**: http://www.gamux.com.br/
+* **Twitter**: https://twitter.com/gamuxbrazil
+* **Instagram**: https://www.instagram.com/gamux.unicamp/
